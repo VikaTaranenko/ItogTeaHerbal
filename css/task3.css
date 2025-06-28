@@ -83,13 +83,11 @@ width: unset;
 .hero-product-additional-details{
     font-size: 16px;
 }
-
 .product-cards{
 margin: 24px 0px 120px;
 display: flex;
 gap: 32px;
 }
-
 .product-card{
 flex: auto;
 }
@@ -105,13 +103,11 @@ footer{
     display: flex;
     gap: 32px;
 }
-
 .footer-links-list{
     display: flex;
     flex-direction: column;
     gap: 24px;
     width: 187px;
-
 }
 .footer-links-list a, .footer-links h3{
     font-weight: 500;
